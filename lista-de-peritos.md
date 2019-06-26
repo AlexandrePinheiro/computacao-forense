@@ -73,6 +73,8 @@ REGIÃO NORDESTE
 
     * FORTALEZA		 
 		 
+	     * [Alexandre Pinheiro (Perito em Computação Forense e Consultor em CiberSegurança) ](https://www.linkedin.com/in/pinheiroalexandre/) 
+	     
 	     * [Emmanuel Noleto (Perícia forense) ](http://www.emmanuelnoleto.com.br)
 		 
 
